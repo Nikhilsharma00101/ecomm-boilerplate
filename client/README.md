@@ -23,7 +23,3 @@ This template helps developers quickly start new e-commerce projects without rep
 
 ## Folder Structure
 
-
-Author
-
-Nikhil Sharma
